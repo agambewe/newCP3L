@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T15:00:31.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="0WDpIYTUritHqgj79bL8" version="12.7.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T15:00:55.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="ShIXvJrkaU9A0Jcobti4" version="12.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="1200" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Zcnm54V735AdrH91eZw3-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Detail_transaksi_layanan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- id : int (Unique)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- jumlah : int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ tambah_data_detail_transaksi_layanan()&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;+ tampil_data_detail_transaksi_layanan()&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;+ ubah_data_detail_transaksi_layanan()&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;+ hapus_data_detail_transaksi_layanan()&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ cari_data_detail_transaksi_layanan()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1190" width="270" height="160" as="geometry" />
+          <mxGeometry x="840" y="800" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
